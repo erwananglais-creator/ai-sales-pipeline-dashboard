@@ -1,5 +1,5 @@
 # 📊 AI Sales Pipeline Dashboard — Power BI
-![Dashboard Preview](./AI_Sales_Pipeline_Dashboard.pdf)
+![Dashboard Preview](./dashboard_preview.png)
 
 > Power BI dashboard analyzing 250 AI-scored B2B leads — built as a portfolio project to demonstrate business analytics, data visualization, and AI-driven insights.
 
